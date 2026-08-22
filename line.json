@@ -1,0 +1,217 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ASOBIBA NEWS",
+        "weight": "bold",
+        "size": "md",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": "8月20日 ダイジェスト",
+        "size": "xs",
+        "color": "#666666",
+        "align": "end"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/ktgoboc-hue/line-image/main/01_summer.jpg",
+    "size": "full",
+    "aspectRatio": "3:2",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://hidagoboc.jp/asobiba-1"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "paddingAll": "0px",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "16px",
+        "contents": [
+          {
+            "type": "text",
+            "text": "夏休み後半も、あそびつくそう！",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "よぞら・しばふ・Harappaから最新情報をお届け",
+            "size": "sm",
+            "color": "#777777",
+            "margin": "sm",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "color": "#EEEEEE"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "paddingAll": "12px",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://moriwakunoniwa.com/yozorashibafu/news/yozora-atlier"
+        },
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/ktgoboc-hue/line-image/main/02_atelier.jpg",
+            "size": "md",
+            "aspectRatio": "1:1",
+            "aspectMode": "cover",
+            "flex": 0
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "よぞら｜新しいアトリエがOPEN！",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "自由に創って、発明できる新しい空間がスタート！",
+                "size": "xs",
+                "color": "#777777",
+                "margin": "sm",
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "color": "#EEEEEE"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "paddingAll": "12px",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://moriwakunoniwa.com/yozorashibafu/carenda/shibafucalendar#top-3"
+        },
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/ktgoboc-hue/line-image/main/04_september.jpg",
+            "size": "md",
+            "aspectRatio": "1:1",
+            "aspectMode": "cover",
+            "flex": 0
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "しばふ｜9月のイベント情報",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "最新の営業日やイベント情報をチェック！",
+                "size": "xs",
+                "color": "#777777",
+                "margin": "sm",
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "color": "#EEEEEE"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "paddingAll": "12px",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://harappa-aichi.com"
+        },
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/ktgoboc-hue/line-image/main/03_harappa.jpg",
+            "size": "md",
+            "aspectRatio": "1:1",
+            "aspectMode": "cover",
+            "flex": 0
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "Harappa｜7/19 NEW OPEN！",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "あいち健康の森公園に新しいあそび場がオープン！",
+                "size": "xs",
+                "color": "#777777",
+                "margin": "sm",
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "action": {
+          "type": "uri",
+          "label": "夏休みのあそび場を見る",
+          "uri": "https://hidagoboc.jp/asobiba-1"
+        }
+      }
+    ]
+  }
+}
